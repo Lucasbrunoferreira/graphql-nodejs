@@ -1,0 +1,23 @@
+[
+	{
+    "id": 1,
+    "brand": "Fiat",
+    "year": 2019,
+    "model": "Touro SUV",
+    "owner": 3
+  },
+  {
+    "id": 2,
+    "brand": "Volkswagen",
+    "year": 2018,
+    "model": "Passat TSI",
+    "owner": 1
+  },
+  {
+    "id": 3,
+    "brand": "Chevrolet",
+    "year": 2019,
+    "model": "Cruze Sedan",
+    "owner": 2
+  }
+]
